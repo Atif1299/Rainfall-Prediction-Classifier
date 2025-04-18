@@ -1,5 +1,23 @@
 # Rainfall-Prediction-Classifier
 
+We will use some of the algorithms specifically:
+
+1. Linear Regression
+2. KNN
+3. Decision Trees
+4. Logistic Regression
+5. SVM
+
+We will evaluate our models using:
+
+1.  Accuracy Score
+2.  Jaccard Index
+3.  F1-Score
+4.  LogLoss
+5.  Mean Absolute Error
+6.  Mean Squared Error
+7.  R2-Score
+
 This dataset contains observations of weather metrics for each day from 2008 to 2017. The **weatherAUS.csv** dataset includes the following fields:
 
 | Field         | Description                                           | Unit            | Type   |
